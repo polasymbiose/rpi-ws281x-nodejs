@@ -1,5 +1,5 @@
 {
-  "name": "@bartando/rpi-ws281x-neopixel",
+  "name": "@polasymbiose/rpi-ws281x-neopixel",
   "version": "1.0.0",
   "description": "Raspberry Pi ws281x library for Node.js",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "node-gyp rebuild"
   },
-  "author": "bartando",
+  "author": "polasymbiose",
   "license": "MIT",
   "dependencies": {
     "nan": "^2.14.0",
